@@ -7,4 +7,4 @@ Author - Pikkili Kumar
 Steps :
 npm init -y
 npm i --save express 
-npx nodemon main.js  
+npx nodemon index.js  
