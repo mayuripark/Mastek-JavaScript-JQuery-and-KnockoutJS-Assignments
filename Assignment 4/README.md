@@ -3,3 +3,8 @@ Create a server module using express module  to display output for HTTP Methods 
 Group No. 4
 Author- Mayuri Parkhe
 Author - Pikkili Kumar
+
+Steps :
+npm init -y
+npm i --save express 
+npx nodemon main.js  
