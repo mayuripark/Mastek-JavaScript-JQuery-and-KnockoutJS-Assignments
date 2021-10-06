@@ -5,4 +5,4 @@ Group No. 4
 Author- Mayuri Parkhe
 Author - Pikkili Kumar
 
-Steps: npm init -y npm i --save express npx nodemon index.js
+Steps: npm init -y npm i --save express npx nodemon server.js
